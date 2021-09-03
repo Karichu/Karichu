@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Karichu
-- 👀 I’m interested in Java,C#,ReactJS
-- 🌱 I’m currently learning ReactJS
-- 💞️ I’m looking to collaborate on ReactJS & Redux
+- 👀 I’m interested in HTML,CSS,Javascript and SQL
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to venture in data science/ FrontEnd Development.
 - 📫 How to reach me :angelinewanjiku2000@gmail.com
 
 <!---
